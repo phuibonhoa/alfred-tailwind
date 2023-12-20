@@ -12,13 +12,10 @@ Trigger by typing: `TW <search terms>`
    * Ex.  `.text-sm`
 
 ## ✅ Examples
-![text-sm](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/4646ac0f-477c-42d6-a740-e444d48c1e4a|width=100)
-
-![justify-between](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/ac89f9f0-a7be-48da-ab07-d5777d282d18)
-
-![background](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6de57c07-2a1d-472b-9d17-362e4fcab6fd)
-
-![margin](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6d368d7b-2397-4f95-b45b-eb0499c4423c)
+<img src="https://github.com/phuibonhoa/alfred-tailwind/assets/14584/4646ac0f-477c-42d6-a740-e444d48c1e4a" width=800 />
+<img src="https://github.com/phuibonhoa/alfred-tailwind/assets/14584/ac89f9f0-a7be-48da-ab07-d5777d282d18" width=800/>
+<img src="https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6de57c07-2a1d-472b-9d17-362e4fcab6fd" width=800/>
+<img src="https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6d368d7b-2397-4f95-b45b-eb0499c4423c" width=800/>
 
 
 ## ⬇️ Installation
