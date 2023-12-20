@@ -12,13 +12,13 @@ Trigger by typing: `TW <search terms>`
    * Ex.  `.text-sm`
 
 ## ✅ Examples
-![CleanShot 2023-12-19 at 18 31 41@2x](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/4646ac0f-477c-42d6-a740-e444d48c1e4a)
+![text-sm](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/4646ac0f-477c-42d6-a740-e444d48c1e4a|width=100)
 
-![CleanShot 2023-12-19 at 18 32 08@2x](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/ac89f9f0-a7be-48da-ab07-d5777d282d18)
+![justify-between](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/ac89f9f0-a7be-48da-ab07-d5777d282d18)
 
-![CleanShot 2023-12-19 at 18 34 05@2x](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6de57c07-2a1d-472b-9d17-362e4fcab6fd)
+![background](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6de57c07-2a1d-472b-9d17-362e4fcab6fd)
 
-![CleanShot 2023-12-19 at 18 35 25@2x](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6d368d7b-2397-4f95-b45b-eb0499c4423c)
+![margin](https://github.com/phuibonhoa/alfred-tailwind/assets/14584/6d368d7b-2397-4f95-b45b-eb0499c4423c)
 
 
 ## ⬇️ Installation
