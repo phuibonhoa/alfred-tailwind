@@ -1,6 +1,6 @@
-# ⭐ Alfred Tailwind 
+# ⭐ Alfred Tailwind
 
-An [Alfred](https://alfred.app) workflow to easily search any [tailwind](https://tailwindcss.com) class, fuzzy matching the name, the generated css, or even other descriptive text.  
+An [Alfred](https://alfred.app) workflow to easily search any [tailwind](https://tailwindcss.com) class, fuzzy matching the name, the generated css, or even other descriptive text.
 
 
 ## ➡️ Usage
@@ -8,7 +8,7 @@ An [Alfred](https://alfred.app) workflow to easily search any [tailwind](https:/
 Trigger by typing: `TW <search terms>`
  * ↩ (Enter) will paste the class in the active window and copy it to your clipboard
    * Ex.  `text-sm`
- * ⇧↩ (Shift + Enter) will paste the slim/haml class (prepended with a .) to the active window and copy it to your clipboard
+ * ⌥↩ (Option + Enter) will paste the slim/haml class (prepended with a .) to the active window and copy it to your clipboard
    * Ex.  `.text-sm`
 
 ## ✅ Examples

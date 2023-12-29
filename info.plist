@@ -8,19 +8,8 @@
 	<string>Productivity</string>
 	<key>connections</key>
 	<dict>
-		<key>3ED59B3A-9577-4BAF-8142-583FF6CE12A2</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>92687782-3511-419F-B7D6-50DA2DE152C9</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
+		<key>278AE5B1-E930-42B2-9DE1-77FA98FD7BDD</key>
+		<array/>
 		<key>61AB84FC-1140-4936-9D1D-580693B038E1</key>
 		<array>
 			<dict>
@@ -34,20 +23,7 @@
 				<false/>
 			</dict>
 		</array>
-		<key>92687782-3511-419F-B7D6-50DA2DE152C9</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>166B640A-017D-4718-9631-BD9E5172A02C</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>F53246DA-104C-44D4-9657-C53DFD5317B8</key>
+		<key>8686B28F-4E31-4B7F-BB10-BC33FCD54560</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
@@ -56,16 +32,6 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>3ED59B3A-9577-4BAF-8142-583FF6CE12A2</string>
-				<key>modifiers</key>
-				<integer>131072</integer>
-				<key>modifiersubtext</key>
-				<string>slim</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -125,17 +91,17 @@
 			<key>config</key>
 			<dict>
 				<key>alfredfiltersresults</key>
-				<false/>
+				<true/>
 				<key>alfredfiltersresultsmatchmode</key>
-				<integer>0</integer>
+				<integer>2</integer>
 				<key>argumenttreatemptyqueryasnil</key>
-				<false/>
+				<true/>
 				<key>argumenttrimmode</key>
 				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>escaping</key>
-				<integer>1</integer>
+				<integer>102</integer>
 				<key>keyword</key>
 				<string>tw</string>
 				<key>queuedelaycustom</key>
@@ -149,65 +115,57 @@
 				<key>runningsubtext</key>
 				<string>searching...</string>
 				<key>script</key>
-				<string>/usr/bin/ruby ./main.rb {query}</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
 				<string></string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string>script_filter.sh</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
 				<string>Tailwind</string>
 				<key>type</key>
-				<integer>0</integer>
+				<integer>8</integer>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>F53246DA-104C-44D4-9657-C53DFD5317B8</string>
+			<string>8686B28F-4E31-4B7F-BB10-BC33FCD54560</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>.{query}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>92687782-3511-419F-B7D6-50DA2DE152C9</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
+				<key>action</key>
+				<integer>0</integer>
 				<key>argument</key>
-				<string>{query}</string>
-				<key>passthroughargument</key>
-				<true/>
-				<key>variables</key>
-				<dict>
-					<key>output_slim</key>
-					<string>true</string>
-				</dict>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>49</integer>
+				<key>hotmod</key>
+				<integer>262144</integer>
+				<key>hotstring</key>
+				<string>Space</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
+			<string>alfred.workflow.trigger.hotkey</string>
 			<key>uid</key>
-			<string>3ED59B3A-9577-4BAF-8142-583FF6CE12A2</string>
+			<string>278AE5B1-E930-42B2-9DE1-77FA98FD7BDD</string>
 			<key>version</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -223,12 +181,12 @@ By Philippe Huibonhoa</string>
 			<key>ypos</key>
 			<real>15</real>
 		</dict>
-		<key>3ED59B3A-9577-4BAF-8142-583FF6CE12A2</key>
+		<key>278AE5B1-E930-42B2-9DE1-77FA98FD7BDD</key>
 		<dict>
 			<key>xpos</key>
-			<real>540</real>
+			<real>60</real>
 			<key>ypos</key>
-			<real>195</real>
+			<real>105</real>
 		</dict>
 		<key>61AB84FC-1140-4936-9D1D-580693B038E1</key>
 		<dict>
@@ -237,19 +195,12 @@ By Philippe Huibonhoa</string>
 			<key>ypos</key>
 			<real>15</real>
 		</dict>
-		<key>92687782-3511-419F-B7D6-50DA2DE152C9</key>
+		<key>8686B28F-4E31-4B7F-BB10-BC33FCD54560</key>
 		<dict>
 			<key>xpos</key>
-			<real>705</real>
+			<real>315</real>
 			<key>ypos</key>
-			<real>165</real>
-		</dict>
-		<key>F53246DA-104C-44D4-9657-C53DFD5317B8</key>
-		<dict>
-			<key>xpos</key>
-			<real>295</real>
-			<key>ypos</key>
-			<real>15</real>
+			<real>20</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
