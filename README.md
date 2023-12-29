@@ -10,6 +10,8 @@ Trigger by typing: `TW <search terms>`
    * Ex.  `text-sm`
  * ⌥↩ (Option + Enter) will paste the slim/haml class (prepended with a .) to the active window and copy it to your clipboard
    * Ex.  `.text-sm`
+ * ⌘↩ (Command + Enter) will open the tailwind docs for the selected item and copy the url to your clipbard
+   * Ex.  `.text-sm`
 
 ## ✅ Examples
 <img src="https://github.com/phuibonhoa/alfred-tailwind/assets/14584/4646ac0f-477c-42d6-a740-e444d48c1e4a" width=800 />
