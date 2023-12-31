@@ -9,18 +9,7 @@
 	<key>connections</key>
 	<dict>
 		<key>278AE5B1-E930-42B2-9DE1-77FA98FD7BDD</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>8686B28F-4E31-4B7F-BB10-BC33FCD54560</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
+		<array/>
 		<key>61AB84FC-1140-4936-9D1D-580693B038E1</key>
 		<array>
 			<dict>
@@ -361,7 +350,7 @@ By Philippe Huibonhoa</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.1.1</string>
+	<string>1.1.2</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
