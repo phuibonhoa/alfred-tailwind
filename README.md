@@ -8,7 +8,7 @@ An [Alfred](https://alfred.app) workflow to easily search any [tailwind](https:/
 Trigger by typing: `TW <search terms>`
  * ↩ (Enter) will paste the class in the active window and copy it to your clipboard
    * Ex.  `text-sm`
- * ⌥↩ (Option + Enter) will paste the slim/haml class (prepended with a .) to the active window and copy it to your clipboard
+ * ⌥↩ (Option + Enter) or ⇧↩ (Shift + Enter) will paste the slim/haml class (prepended with a .) to the active window and copy it to your clipboard
    * Ex.  `.text-sm`
  * ⌘↩ (Command + Enter) will open the tailwind docs for the selected item and copy the url to your clipbard
    * Ex.  `.text-sm`
